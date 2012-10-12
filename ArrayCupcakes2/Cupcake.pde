@@ -8,7 +8,8 @@ class Cupcake {
 
 
   Cupcake(){
-    img = loadImage("cupcake.png");
+    //Kamilla!I changed your cupcake to my face. Hope you like it. HAHA!
+    img = loadImage("maxine.png");
   }
     
   void display() {
